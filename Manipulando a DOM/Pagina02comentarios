@@ -1,0 +1,11 @@
+//console.log(inputElement);
+
+//var inputElement = document.getElementById('Id');
+
+          //caso o o vetor não incluido ele passava os 2 inputes para o console caso 
+          //contratio apenas o primeiro sera transferido
+          //var inputElement = document.getElementsByTagName('input')[0];
+          //var inputElement = document.getElementsByClassName('Classe')[0];
+
+          //var inputElement = document.querySelector('div#app input');
+          //var inputElement = document.querySelectorAll('div#app input');
